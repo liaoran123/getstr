@@ -1,0 +1,1 @@
+go test -v -run TestSub str_test.go getstr.go
